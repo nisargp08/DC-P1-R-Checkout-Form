@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href=https://github.com/nisargp08/DC-P1-R-Checkout-Form/blob/master/src/App.vue">
+    <a href="https://github.com/nisargp08/DC-P1-R-Checkout-Form/blob/master/src/App.vue">
       Solution
     </a>
     <span> | </span>
